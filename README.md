@@ -58,14 +58,17 @@ Types:     signé = + ou -
 virgule fixe si pas de FPU
 
 Virgule flottante = IEEE 754
-    -float : 32bit   10^38
-    -double : 64bit  10^308
-    -précision finie Pi n'est pas stockable
 
-Unsigned Char = 8 bits / 0 à -128
-Unsigned Short >= 16 bits / 0 à -2^15
-Unsigned long >= 32 bits / 0 à -2^31
-Unsigned long long > 64 bits / 0 à -2^63
+```
+-float : 32bit   10^38
+-double : 64bit  10^308
+-précision finie Pi n'est pas stockable
+```
+
+* Unsigned Char = 8 bits / 0 à -128
+* Unsigned Short >= 16 bits / 0 à -2^15
+* Unsigned long >= 32 bits / 0 à -2^31
+* Unsigned long long > 64 bits / 0 à -2^63
 
 
 ### D : Suffixes / préfixes
