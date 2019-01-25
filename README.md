@@ -51,7 +51,7 @@ si une valeur est au dessus de la valeur max c'est les bit les plus faibles soit
 
 un char a une valeur indeterminé max car on cest pas su c signed pu pas
 
-### C : Les signes : 
+### C : Signed, unsigned & float: 
 Types:     signé = + ou -
     non signé = +
 
