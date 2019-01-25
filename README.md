@@ -71,14 +71,14 @@ Unsigned long long > 64 bits / 0 à -2^63
 ### D : Suffixes / préfixes
 
 SUFFIXES 
-	50 /*sabs suffixe, int */
-	50u /* unsigned int */
-	50U /* unsigned int */
-	50l /* long */
-	50L /* long */
-	50ul /* unsigned long */
-	50UL /* unsigned long */
-	50uL /* unsigned long */
-	50Ul /* unsigned long */
+* 50 /*sabs suffixe, int */
+* 50u /* unsigned int */
+* 50U /* unsigned int */
+* 50l /* long */
+* 50L /* long */
+* 50ul /* unsigned long */
+* 50UL /* unsigned long */
+* 50uL /* unsigned long */
+* 50Ul /* unsigned long */
 
 
